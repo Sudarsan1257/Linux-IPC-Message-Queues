@@ -88,8 +88,8 @@ int main()
 
 ## OUTPUT
 
+![Screenshot_2025-05-12_19-31-57](https://github.com/user-attachments/assets/acf6c1d0-2575-462b-845b-ff1bfa0407f7)
 
-![image](https://github.com/user-attachments/assets/188ad319-d1af-4f6d-aff3-97f3cc750c1f)
 
 
 # RESULT:
