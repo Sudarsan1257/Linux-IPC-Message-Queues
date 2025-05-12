@@ -88,8 +88,8 @@ int main()
 
 ## OUTPUT
 
-![alt text](image.png)
 
+![image](https://github.com/user-attachments/assets/188ad319-d1af-4f6d-aff3-97f3cc750c1f)
 
 
 # RESULT:
